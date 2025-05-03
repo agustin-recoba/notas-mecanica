@@ -1,0 +1,6 @@
+ipykernel==6.29.5
+matplotlib==3.10.1
+numpy==2.2.5
+pydantic==2.11.4
+sympy @ git+https://github.com/sympy/sympy.git
+ipywidgets==8.1.6
